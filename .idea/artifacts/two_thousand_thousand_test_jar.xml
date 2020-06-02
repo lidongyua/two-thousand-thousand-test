@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="two-thousand-thousand-test:jar">
+    <output-path>$PROJECT_DIR$/../two-thousand-thousand-test-controller</output-path>
+    <root id="archive" name="two-thousand-thousand-test.jar">
+      <element id="module-output" name="two-thousand-thousand-test" />
+    </root>
+  </artifact>
+</component>
